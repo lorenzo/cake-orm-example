@@ -1,0 +1,10 @@
+{
+    "autoload": {
+        "psr-4": {
+            "Example\\": "."
+        }
+    },
+    "require": {
+        "cakephp/orm": "^3.0"
+    }
+}
